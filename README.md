@@ -4,6 +4,8 @@
 # Member
 angelo.eap
 
+valentin.san
+
 christophe.nguyen
 
 alexandre.devaux-riviere

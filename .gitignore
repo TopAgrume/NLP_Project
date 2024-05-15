@@ -1,5 +1,7 @@
 data_raw
 src/cleaned_classification.csv
+src/clean_dataset.csv
+/our_data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

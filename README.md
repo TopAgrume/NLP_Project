@@ -42,14 +42,9 @@ src
 
 ## Members
 
-angelo.eap
-
-valentin.san
-
-christophe.nguyen
-
-alexandre.devaux-riviere
-
-paul.duhot
-
-mael.reynaud
+- angelo.eap
+- valentin.san
+- christophe.nguyen
+- alexandre.devaux-riviere
+- paul.duhot
+- mael.reynaud
